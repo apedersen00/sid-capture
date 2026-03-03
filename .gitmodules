@@ -1,3 +1,6 @@
 [submodule "py65emu"]
 	path = py65emu
 	url = https://github.com/docmarionum1/py65emu.git
+[submodule "c64_6581_sid_players"]
+	path = c64_6581_sid_players
+	url = https://github.com/realdmx/c64_6581_sid_players.git
