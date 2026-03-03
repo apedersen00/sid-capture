@@ -1,0 +1,3 @@
+[submodule "py65emu"]
+	path = py65emu
+	url = https://github.com/docmarionum1/py65emu.git
